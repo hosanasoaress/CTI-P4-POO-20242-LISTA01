@@ -21,4 +21,5 @@ O detertminado repositório inclui a resolução da lista 01 de atividades propo
 ---
 
 ## ☕​ Linguagem Utilizada:
+- Java
 <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="40" height="40" alt="Java Icon">
