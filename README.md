@@ -2,12 +2,12 @@
 # 🪐 Resolução da Lista 01 de atividades 
 
 ## ✨ Apresentação:
-O detertminado repositório inclui a resolução da lista 01 de atividades proposta na disciplina de Programação Orientada a Objetos, ensinada pelo professor Roger Mora Sarmento. As atividades trabalhadas durante a disciplina, foram realizadas com o intuito de melhor aprendizagem e execução da teoria aplicada em sala de aula.
+O detertminado repositório inclui a resolução da lista 01 de atividades proposta na disciplina de Programação Orientada a Objetos, ensinada pelo professor Roger Moura Sarmento. As atividades trabalhadas durante a disciplina, foram realizadas com o intuito de melhor aprendizagem e execução da teoria aplicada em sala de aula.
 
 ---
 **Disciplina:** Programação Orientada a Objetos
 
-**Professor:** Roger Mora Sarmento
+**Professor:** Roger Moura Sarmento
 
 ---
 
