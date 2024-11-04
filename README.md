@@ -2,8 +2,6 @@
 # CTI-P4-POO-20242-LISTA01
 # 🪐 Resolução da Lista 01 da 
 **Disciplina:** Programação Orientada a Objetos
-
-Ensinada pelo 
 **Professor:** Roger Mora Sarmento
 
 
