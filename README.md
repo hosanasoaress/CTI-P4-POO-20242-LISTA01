@@ -18,10 +18,10 @@ As atividades trabalhadas durante a disciplina, foram realizadas com o intuito d
 ---
 
 ## 📚​ Integrantes da Equipe:
-- [Hosana Clara de Brito Soares Bezerra](https://github.com/hosanasoaress)
-- [Marcella Ivina de Araújo Gondim](https://github.com/MarcyIvi)
-- [Sally Gosson Viana Colombo](https://github.com/sallygosson)
-- [Francisco Israel Alves Barbosa](https://github.com/alvesisrael221)
+- [🔮 Hosana Clara de Brito Soares Bezerra](https://github.com/hosanasoaress)
+- [🔮 Marcella Ivina de Araújo Gondim](https://github.com/MarcyIvi)
+- [🔮 Sally Gosson Viana Colombo](https://github.com/sallygosson)
+- [🔮 Francisco Israel Alves Barbosa](https://github.com/alvesisrael221)
 
 
 ---
