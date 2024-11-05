@@ -16,11 +16,11 @@ As atividades trabalhadas durante a disciplina, foram realizadas com o intuito d
 -----
 
 ## 📌 Dados:
-**Disciplina:** Programação Orientada a Objetos
+**🎆Disciplina:** Programação Orientada a Objetos
 
-**Professor:** Roger Moura Sarmento
+**🎆Professor:** Roger Moura Sarmento
 
-**Intituição:** Ifce campus Maranguape
+**🎆Intituição:** Ifce campus Maranguape
 
 ---
 
