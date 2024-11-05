@@ -14,6 +14,7 @@ As atividades trabalhadas durante a disciplina, foram realizadas com o intuito d
 **Professor:** Roger Moura Sarmento
 
 **Intituição:** Ifce campus Maranguape
+
 ---
 
 ## 📚​ Integrantes da Equipe:
