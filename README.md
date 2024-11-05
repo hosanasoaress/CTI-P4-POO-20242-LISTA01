@@ -8,11 +8,13 @@ O detertminado repositório inclui a resolução da lista 01 de atividades, do c
 As atividades trabalhadas durante a disciplina, foram realizadas com o intuito de melhor aprendizagem e execução da teoria aplicada em sala de aula. Além das soluções em Java, o repositório também explora conceitos introdutórios de algoritmos, abordando tópicos como declaração de variáveis, atribuição de valores e operações de entrada e saída, sendo conceitos fundamentais para a criação de programas robustos e para entender como diferentes linguagens de programação tratam a construção de algoritmos, tanto simples quanto complexos.
 
 ---
+## 📌 Dados:
 **Disciplina:** Programação Orientada a Objetos
 
 **Professor:** Roger Moura Sarmento
 
 ---
+![Imagem de Java]([https://link-para-imagem.com/imagem.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6XbLNOqE-Tv9s-KXGEATxLDycjKAE5aTjiqWicSpx0TsinsH-Y7AmBB2p6K28uXhIos3eK-kXoIiFjuCcbLzjsymSSUIX7jidCM5nHmsj6QWciV0cr0IJFHsJNXFEjnJXIdt5y0iXrgV7/s700/POST_MAT.jpg)) 
 
 ## 📚​ Integrantes da Equipe:
 - [Hosana Clara de Brito Soares Bezerra](https://github.com/hosanasoaress)
