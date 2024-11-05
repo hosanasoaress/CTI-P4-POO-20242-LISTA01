@@ -12,7 +12,9 @@ As atividades trabalhadas durante a disciplina, foram realizadas com o intuito d
 <br>
 
 <img align="rigth" alt="Java Img" width="150" height="150" src="https://raw.githubusercontent.com/Deathopex/Deathopex/main/java.gif">
+
 -----
+
 ## 📌 Dados:
 **Disciplina:** Programação Orientada a Objetos
 
